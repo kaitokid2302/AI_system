@@ -8,6 +8,12 @@
 
 ---
 
+Instead of using sql to control user credentials, we will use a simple data.txt file, that store users's username and password
 
-If something is wrong, feel free to install any package that your IDE tells you!
+
+---
+
+**If something is wrong, feel free to install any package that your IDE tells you!**
+
+
 
